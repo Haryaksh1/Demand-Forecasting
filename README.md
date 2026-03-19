@@ -27,7 +27,7 @@ Businesses monitor many demand signals — weather, sentiment, macro indicators 
 ```
 Demand-Forecasting/
 │
-├── m3sop_final_code.ipynb      # Full pipeline: data → features → models → analysis
+├── Demand_Forecasting.ipynb      # Full pipeline: data → features → models → analysis
 │
 ├── reports/
 │   └── report.pdf              # Full project report
